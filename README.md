@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-v1.0.0-FF2D78" alt="Versión v1.0.0" />
+  <img src="https://img.shields.io/badge/versión-v1.0.1-FF2D78" alt="Versión v1.0.1" />
   <img src="https://img.shields.io/badge/plataforma-Android-3ddc84?logo=android&logoColor=white" alt="Plataforma Android" />
   <img src="https://img.shields.io/badge/requiere-Shizuku-00F2EA" alt="Requiere Shizuku" />
 </p>
